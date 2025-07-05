@@ -1,5 +1,3 @@
-import re
-import chardet
 import os
 import sys
 from mutagen.easyid3 import EasyID3
